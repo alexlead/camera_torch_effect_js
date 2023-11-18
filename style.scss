@@ -1,0 +1,17 @@
+body{
+    background: #16213E;
+    margin: 0;
+    padding: 0;
+
+
+    canvas{
+        
+        background: #fff;
+        position: absolute;
+        left: 50%;
+        top:50%;
+        transform: translate(-50%, -50%);
+        width: 100%;
+        
+        }
+    }
